@@ -1,0 +1,23 @@
+{
+  "name": "sl_api_get_image_background_color",
+  "version": "1.0.0",
+  "description": "SnapLocal API : Get Image Background Color",
+  "main": "api_get_image_background_color.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dconnx/sl_api_get_image_background_color.git"
+  },
+  "author": "Derek Conniffe",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dconnx/sl_api_get_image_background_color/issues"
+  },
+  "homepage": "https://github.com/dconnx/sl_api_get_image_background_color#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node-vibrant": "^3.2.1-alpha.1"
+  }
+}
